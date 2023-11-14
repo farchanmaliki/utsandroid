@@ -2,6 +2,6 @@
 ###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview
 
 ### Dibuat Oleh :
-##### Idris
+##### Mochamad Farchan Maliki
 ### NIM
-##### G.123.21.1989
+##### G.111.22.0014
